@@ -93,3 +93,6 @@ pip install -r requirements.txt
 ```
 
 Si el cuaderno se amplía y utiliza `numpy`, `scipy` o `pandas`, añádelas al `requirements.txt` o instálalas manualmente.
+
+# Link al video:
+https://drive.google.com/file/d/1bFcGuMDFOFXQpPtaRyYcuEAAWvvhpEGz/view?usp=sharing
